@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KinoPoisk</string>
+    <string name="new_email">E-mail</string>
+    <string name="new_password">Пароль</string>
+    <string name="new_input">Войти</string>
+    <string name="new_regist">Регистрация</string>
+    <string name="new_text">Captain Marvel</string>
+
+    <string name="title_activity_main_screen2">MainScreen2</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Подборка</string>
+    <string name="title_coll">Коллекция</string>
+    <string name="title_prof">Профиль</string>
+    <string name="title_poisk">КиноПоиск</string>
+    <string name="text">Enter a title for the crime.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+
+
+</resources>
